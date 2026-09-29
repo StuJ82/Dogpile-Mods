@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfiniteMoneyMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b22eb6c4c7d31757fe1f0a5fee1cb9dbce82eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7af125a7477f34db5e6ff5674010bf0b74747e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfiniteMoneyMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfiniteMoneyMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
