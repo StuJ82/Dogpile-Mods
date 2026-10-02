@@ -5,7 +5,7 @@ from typing import TYPE_CHECKING
 from BaseClasses import ItemClassification, Location
 
 from . import items
-from . import regions
+from .regions import DogpileRegion
     
 if TYPE_CHECKING:
     from .world import DogpileWorld
@@ -23,5 +23,5 @@ class LocationType:
 
 class DogpileLocations:
     name:str
-    region:Dogpile
+    region:DogpileRegion
     

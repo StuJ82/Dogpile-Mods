@@ -1,6 +1,6 @@
 from collections.abc import Mapping
 from typing import Any
-
+from BaseClasses import Tutorial
 # Imports of base Archipelago modules must be absolute.
 from worlds.AutoWorld import World
 
@@ -23,3 +23,4 @@ class DogpileWorld(World):
     You send checks buying cards in the shop, or completing goals/beating a deck
     """
     game="Dogpile"
+    
